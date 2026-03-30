@@ -1,0 +1,22 @@
+{
+  "name": "custom-agents",
+  "description": "Personal custom agents and skills for VS Code Chat Customizations.",
+  "version": "0.1.0",
+  "keywords": [
+    "custom-agents",
+    "unit-testing",
+    "vitest",
+    "jest"
+  ],
+  "author": {
+    "name": "Calin Doran"
+  },
+  "repository": "https://github.com/calin-doran/custom-agents",
+  "license": "MIT",
+  "agents": [
+    "./agents/unit-test-maintainer.agent.md"
+  ],
+  "skills": [
+    "./skills/javascript-typescript-vitest-jest/"
+  ]
+}
