@@ -1,12 +1,12 @@
 {
-	"name": "custom-agents",
-	"displayName": "Custom Agents",
+	"name": "cd-custom-agents",
+	"displayName": "CD Custom Agents",
 	"description": "A personal bundle of custom agents and skills for VS Code Chat Customizations.",
 	"version": "0.1.0",
 	"publisher": "calin-doran",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/calin-doran/custom-agents"
+		"url": "https://github.com/calindoran/cd-custom-agents"
 	},
 	"agents": [
 		{

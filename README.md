@@ -1,4 +1,4 @@
-# Custom Agents
+# CD Custom Agents
 
 This repository is a Copilot plugin bundle for my personal custom agents and skills. It follows the Awesome Copilot plugin layout so the content can be discovered, installed, and managed as a single unit.
 
